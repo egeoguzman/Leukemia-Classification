@@ -176,16 +176,16 @@
   </tr>
   </thead>
   <tr>
-    <td><img src="images/vgg-accuracy-graph.png" width=480 height=50%></td>
-    <td><img src="./images/inception3-acc-graph.png" width=480 height=50%></td>
+    <td><img src="images/vgg-accuracy-graph.png"></td>
+    <td><img src="./images/inception3-acc-graph.png"></td>
   </tr>
   <tr>
-    <td><img src="./images/vgg-loss-graph.png" width=480 height=50%></td>
-    <td><img src="./images/inception3-loss-graph.png" width=480 height=50%></td>
+    <td><img src="./images/vgg-loss-graph.png"></td>
+    <td><img src="./images/inception3-loss-graph.png"></td>
   </tr>
   <tr>
-    <td><img src="./images/vgg-cm.png" width=480 height=50%></td>
-    <td><img src="./images/inception3-cm.png" width=480 height=50%></td>
+    <td><img src="./images/vgg-cm.png"></td>
+    <td><img src="./images/inception3-cm.png"></td>
   </tr>
 </table>
 
