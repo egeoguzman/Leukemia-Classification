@@ -70,8 +70,8 @@
   </tr>
   </thead>
   <tr>
-    <td><img src="./images/UID_1_1_1_all.bmp" width=270 height=480></td>
-    <td><img src="./images/UID_H6_1_1_hem.bmp" width=270 height=480></td>
+    <td><img src="./images/UID_1_1_1_all.bmp" width=480 height=480></td>
+    <td><img src="./images/UID_H6_1_1_hem.bmp" width=480 height=480></td>
     <td><img src="./images/UID_1_4_2_all.bmp" width=270 height=480></td>
     <td><img src="./images/UID_H6_10_1_hem.bmp" width=270 height=480></td>
   </tr>
